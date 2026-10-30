@@ -1,0 +1,14 @@
+{
+  "name": "thesomollorcos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "docker compose up -d"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,9 @@
+{
+  "_info": "Una entrada por gato con voz. profile = nombre del perfil en Voicebox (grabado por nosotros haciendo de ese gato). engine = motor de Voicebox que clona la voz. effects = cadena de efectos de Voicebox o null (mejor sin: suena más natural).",
+  "Mayoneso": {
+    "profile": "Mayoneso",
+    "engine": "chatterbox_turbo",
+    "effects": null,
+    "notes": "Grabada por Guille: voz lenta y perezosa, en castellano. Al hablar inglés le queda un acento que la hace creíble."
+  }
+}
